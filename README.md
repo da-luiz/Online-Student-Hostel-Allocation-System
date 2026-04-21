@@ -32,10 +32,10 @@ All members serve as Lead Analysts.
 
 | Name | Matric No. |
 |------|------------|
-| [Eruezi Umuomo] | [21/3090] |
-| [Member B] | [Matric No.] |
-| [Member C] | [Matric No.] |
-| [Member D] | [Matric No.] |
+| Eruezi Umuomo | 21/3090 |
+| Member B | Matric No. |
+| Member C | Matric No. |
+| Member D | Matric No. |
 
 ## Lecturer
 
